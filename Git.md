@@ -3,9 +3,9 @@
 ```
 git log
 git log --oneline
+git log --name-only
 ```
 - ### List names of files in a commit
 ```
-git show --name-only **CommitID** 
-git log --name-only 
+git show --name-only **CommitID**  
 ```
